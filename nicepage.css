@@ -29818,15 +29818,10 @@ a.u-link.u-text-hover-grey-90:hover {
 
 /*end-variables sitestylecss*/
  .u-header {background-image: none; min-height: 36px}
-.u-header .u-menu-1 {margin: 0 auto 0 0}
-.u-header .u-nav-1 {font-size: 1rem; letter-spacing: 0}
-.u-header .u-nav-2 {font-size: 1.25rem}
-.u-header .u-login-1 {margin: -30px calc(((100% - 1140px) / 2)) 6px auto} 
-@media (max-width: 1199px){ .u-header .u-menu-1 {width: auto}
-.u-header .u-login-1 {height: 25px; margin-top: -30px; margin-right: calc(((100% - 940px) / 2)); width: 41px} }
+.u-header .u-login-1 {margin: 6px calc(((100% - 1140px) / 2)) 6px auto} 
+@media (max-width: 1199px){ .u-header .u-login-1 {height: 25px; margin-right: calc(((100% - 940px) / 2)); width: 41px} }
 @media (max-width: 991px){ .u-header .u-login-1 {margin-right: calc(((100% - 720px) / 2))} }
-@media (max-width: 767px){ .u-header .u-menu-1 {margin-top: 60px}
-.u-header .u-login-1 {margin-right: calc(((100% - 540px) / 2))} }
+@media (max-width: 767px){ .u-header .u-login-1 {margin-right: calc(((100% - 540px) / 2))} }
 @media (max-width: 575px){ .u-header .u-login-1 {margin-right: calc(((100% - 340px) / 2))} }
  .u-footer {background-image: none}
 .u-footer .u-sheet-1 {min-height: 120px}
